@@ -8,6 +8,6 @@ Customer reviews are examined by analyzing review scores, customer comments, and
 
 Finally, the project integrates multiple datasets to provide combined insights, such as linking customer locations to order behavior, payment preferences by region, and the correlation between review scores and product categories. This comprehensive approach helps in understanding customer behavior, optimizing logistics, and improving overall business performance in the Brazilian e-commerce market.
 
-Project dashboard: 
+Project dashboard:https://drive.google.com/file/d/1xwaCqzur7-_IsUnWrvPFinrW5f9ObLR-/view?usp=sharing 
 
 Project PDF file:https://drive.google.com/file/d/1zMBxl3czr1nk7zLf8_ayjHWkLGHZWPYU/view?usp=sharing

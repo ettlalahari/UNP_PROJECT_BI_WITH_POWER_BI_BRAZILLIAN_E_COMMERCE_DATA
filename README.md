@@ -10,4 +10,4 @@ Finally, the project integrates multiple datasets to provide combined insights, 
 
 Project dashboard:https://drive.google.com/file/d/1xwaCqzur7-_IsUnWrvPFinrW5f9ObLR-/view?usp=sharing 
 
-Project PDF file:https://drive.google.com/file/d/1zMBxl3czr1nk7zLf8_ayjHWkLGHZWPYU/view?usp=sharing
+Project PDF file:https:https://drive.google.com/file/d/1mAvjFSoFhIEr2ZUZh6a0CNhpu9gnMiof/view?usp=sharing
